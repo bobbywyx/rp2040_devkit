@@ -1,1 +1,1 @@
-cmd='C:/Users/yixin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/win/bin/cmake.exe;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
+cmd='C:/Users/yixin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/win/bin/cmake.exe;-DCMAKE_MAKE_PROGRAM:FILEPATH=C:/Users/yixin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/win/ninja.exe;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
